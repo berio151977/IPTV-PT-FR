@@ -1,0 +1,65 @@
+#EXTM3U
+# Portugal + France — sources publiques/officielles
+# Les chaînes premium ne sont pas incluses sans source autorisée.
+
+# ===== 🇵🇹 PORTUGAL =====
+#EXTINF:-1 group-title="🇵🇹 Portugal",RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇵🇹 Portugal",RTP 2
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇵🇹 Portugal",RTP Notícias
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇵🇹 Portugal",RTP Memória
+https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇵🇹 Portugal",RTP Açores
+https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇵🇹 Portugal",RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇵🇹 Portugal",RTP África
+https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇵🇹 Portugal",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇵🇹 Portugal",SIC
+https://sic.live.impresa.pt/sic1080p.m3u8
+#EXTINF:-1 group-title="🇵🇹 Portugal",SIC Notícias
+https://sicnot.live.impresa.pt/sicnot.m3u8
+#EXTINF:-1 group-title="🇵🇹 Portugal",TVI
+https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI.m3u8
+#EXTINF:-1 group-title="🇵🇹 Portugal",CNN Portugal
+https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8
+#EXTINF:-1 group-title="🇵🇹 Portugal",TVI Internacional
+https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Internacional.m3u8
+#EXTINF:-1 group-title="🇵🇹 Portugal",TVI Ficção
+https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Ficcao.m3u8
+#EXTINF:-1 group-title="🇵🇹 Portugal",TVI Reality
+https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Reality.m3u8
+#EXTINF:-1 group-title="🇵🇹 Portugal",V+ TVI
+https://github.com/LITUATUI/M3UPT/raw/main/M3U/Vmais_TVI.m3u8
+#EXTINF:-1 group-title="🇵🇹 Portugal",ARTV
+https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+
+# ===== 🇫🇷 FRANCE =====
+# URLs publiques listées par iptv-org; disponibilité variable selon géoblocage.
+#EXTINF:-1 group-title="🇫🇷 France",6ter
+http://145.239.5.177/314/index.m3u8
+#EXTINF:-1 group-title="🇫🇷 France",20 Minutes TV
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:-1 group-title="🇫🇷 France",Africa 24
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 group-title="🇫🇷 France",Africa 24 English
+https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+#EXTINF:-1 group-title="🇫🇷 France",Africa 24 Sport
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="🇫🇷 France",Africanews Français
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:-1 group-title="🇫🇷 France",Arte
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 group-title="🇫🇷 France",BFM2
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+#EXTINF:-1 group-title="🇫🇷 France",TV5Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 group-title="🇫🇷 France",France 24 Français
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+
+# ===== PREMIUM =====
+# Sport TV, DAZN, Canal+, beIN Sports, etc. require a legitimate subscription.
